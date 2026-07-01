@@ -41,15 +41,6 @@ Android / Java developer building practical tools, automation projects, and smal
 ### [NFCswitcher](https://github.com/sholtiee/NFCswitcher)
 Android NFC card switcher and wallet-style UID profile manager.
 
-### [MultiChatSender](https://github.com/sholtiee/MultiChatSender)
-Chat sending automation dashboard with account rotation workflow.
-
-### [GameProga](https://github.com/sholtiee/GameProga)
-Game/programming project with experiments and practical implementation work.
-
-### [VPN-landing](https://github.com/sholtiee/VPN-landing)
-Landing page project focused on product presentation and interface structure.
-
 ---
 
 ## GitHub stats

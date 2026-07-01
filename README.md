@@ -6,15 +6,22 @@
 
 ### Android dev who likes practical tools, automation, and clean interfaces.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle,git,github,py,js,html,css,vscode&theme=dark&perline=10" />
+</a>
 
 ---
 
 ### Featured
 
-[NFCswitcher](https://github.com/sholtiee/NFCswitcher) · [MultiChatSender](https://github.com/sholtiee/MultiChatSender) · [GameProga](https://github.com/sholtiee/GameProga)
+[NFCswitcher](https://github.com/sholtiee/NFCswitcher) | [MultiChatSender](https://github.com/sholtiee/MultiChatSender) | [GameProga](https://github.com/sholtiee/GameProga)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sholtiee/sholtiee/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sholtiee/sholtiee/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sholtiee/sholtiee/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>

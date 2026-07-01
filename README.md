@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=building+useful+apps;clean+code+%2B+practical+tools;shipping+projects%2C+not+just+ideas)](https://git.io/typing-svg)
-
 <img src="assets/terminal.svg" width="780" alt="sholtiee terminal profile card" />
 
 <a href="https://skillicons.dev">
